@@ -18,7 +18,7 @@ class CookieInvalid(Exception):
 
 class Chat(requests.Session):
 
-    def __init__(self, cookie: str = None):
+    def __init__(self, cookie: str):
         super().__init__()
         self.cookie = {"cookie": cookie}
         self.headers.update(
