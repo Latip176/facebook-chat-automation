@@ -13,4 +13,14 @@
   <li><strong>Clear CLI Interface:</strong> Offers a clear command-line interface for user interaction and feedback.</li>
 </ol>
 
+<h2>How to Install?</h2>
+<h3>Clone Repo</h3>
+<pre>
+git clone https://github.com/Latip176/comment-bot-group-facebook
+</pre>
+<h3>Install Requirements</h3>
+<pre>
+python3 -m pip install -r requirements.txt
+</pre>
+
 <p>This feature-rich script is suitable for users looking to automate communication tasks on Facebook Messenger, whether for personal use or business purposes. With its simplicity and versatility, it provides a convenient solution for managing messaging workflows.</p>
