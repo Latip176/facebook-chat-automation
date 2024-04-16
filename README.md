@@ -16,7 +16,7 @@
 <h2>How to Install?</h2>
 <h3>Clone Repo</h3>
 <pre>
-git clone https://github.com/Latip176/comment-bot-group-facebook
+git clone https://github.com/Latip176/facebook-chat-automation
 </pre>
 <h3>Install Requirements</h3>
 <pre>
