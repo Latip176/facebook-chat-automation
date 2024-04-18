@@ -34,7 +34,7 @@ class Chat(requests.Session):
     def pesan(self, uid: str, message: str, photo: dict):
         pesan_response = self.get_pesan_response(uid=uid)
 
-        if pesan_response is False:
+        if pesan_response == False:
             print(f" #~ Send Message Faileddd! - {uid}")
 
         else:
