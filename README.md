@@ -22,3 +22,9 @@ git clone https://github.com/Latip176/facebook-chat-automation
 <pre>
 python3 -m pip install -r requirements.txt
 </pre>
+
+<h2>Donation</h2>
+<strong>Bitcoin: </strong>
+<pre>
+bc1qlc83t4yqvdsanay8a96sxk4ecgqjql54lrx6td
+</pre>
