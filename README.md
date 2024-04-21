@@ -28,3 +28,7 @@ python3 -m pip install -r requirements.txt
 <pre>
 bc1qlc83t4yqvdsanay8a96sxk4ecgqjql54lrx6td
 </pre>
+<strong>ETH: </strong>
+<pre>
+0xcf3A7a1EA52068424Ee0d74C4AA188fc0D6b3f40
+</pre>
